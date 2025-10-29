@@ -4,7 +4,7 @@ Turn any link into instant crypto revenue.
 Payfirst is a crypto-native paywall service that lets anyone monetize web content with on-chain payments.  
 No signups, no integration — just paste a URL, set a price, and get paid instantly.
 
-> ⚡ Powered by @CoinbaseDev infrastructure and the x402 HTTP payment protocol.
+> ⚡ Powered by CoinbaseDev infrastructure and the x402 HTTP payment protocol.
 
 ---
 

@@ -156,6 +156,8 @@ MIT License © 2025 Payfirst
 ## 🧠 Summary
 
 **Payfirst** is building the future of monetization.  
+
+$PAY Contract Address: BgB8QbU9SYz5CRdD6jxkvCK6MP5UEQSUgMS5SmV6BAGS
 Instant, borderless, and protocol-level — not platform-dependent.  
 
 **Turn links into revenue.**  
